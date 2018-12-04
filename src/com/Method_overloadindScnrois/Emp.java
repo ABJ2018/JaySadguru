@@ -2,7 +2,7 @@ package com.Method_overloadindScnrois;
 
 public class Emp 
 {
-	int a=10;
+	int c=10;
 	void m1()
 	{
 		System.out.println("m1");
